@@ -9,7 +9,7 @@ function Home() {
         <div>
              <Blance/>
           <IncomeExpense/>
-          {/* <TransactionList/> */}
+          <TransactionList/>
           <AddTransaction/>
         </div>
     )
