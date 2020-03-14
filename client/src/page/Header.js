@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Header = () => {
+ const Header = () => {
     return (
         
       //   <nav className="navbar navbar-dark  bg-primary text-center ">
@@ -13,3 +13,4 @@ export const Header = () => {
       </div>
     )
 }
+export default Header;
